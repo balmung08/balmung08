@@ -7,5 +7,6 @@
 -----------------------------------------
 ❤️ **淡坑mug玩家/sv ocg player/jrpg死忠**
 
+   **工科人，学控制的，男的，活的，读研混子+1**
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=balmung08&show_icons=true&locale=cn"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balmung08&layout=compact&locale=cn"></p>
