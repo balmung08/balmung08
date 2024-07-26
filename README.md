@@ -19,7 +19,7 @@
 
 <p align="center">  ––最优化算法绝赞学习中––<b></p>
 
-<p align="center">  个人主页：balmung08.github.io <b></p>
+<p align="center">  个人主页：[balmung08.github.io](balmung08.github.io) <b></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balmung08&layout=compact&locale=cn"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=balmung08&show_icons=true&locale=cn"></p>
