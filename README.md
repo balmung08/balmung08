@@ -15,9 +15,12 @@
 
 <p align="center">   工科人，学控制的，男的，活的，读研混子<b></p>
 
-<p align="center">   技术栈：嵌入式、CV相关，控制规划<b></p>
+<p align="center">   技术栈：嵌入式、motion planning<b></p>
 
-<p align="center">  ––数据结构、神经网络绝赞学习中––<b></p>
+<p align="center">  ––最优化算法绝赞学习中––<b></p>
+
+<p align="center">  个人主页：balmung08.github.io <b></p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balmung08&layout=compact&locale=cn"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=balmung08&show_icons=true&locale=cn"></p>
 
