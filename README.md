@@ -27,7 +27,7 @@ enabling robots to **understand, adapt, and act independently** in dynamic envir
 
 ### 🧠 Tech Stack / Keywords
 
-`Python` · `C++` · `ROS` · `Deep Reinforcement Learning` · `Path Planning` · `Trajectory Optimization` · `Geometric Control` · `Multi-Robot Systems`
+`Python` · `C++` · `ROS` · `Deep Reinforcement Learning` · `Path Planning` · `Trajectory Optimization` · `Intelligent Control` 
 
 ---
 
