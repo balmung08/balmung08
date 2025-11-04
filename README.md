@@ -29,8 +29,7 @@ enabling robots to **understand, adapt, and act independently** in dynamic envir
 ### 📚 Publications & Peer Review
 
 * **Published in:** *Expert Systems with Applications(ESWA)*, *IEEE T-ASE*, *IEEE Sensors Journal*, *IROS 2025*
-
-* **Reviewer for:** *RAL*, *ICRA 2026*, *Measurement Science andTechnology*, *Engineering Research Express*
+* **Reviewer for:** *RAL*, *ICRA 2026*, *Measurement Science and Technology*, *Engineering Research Express*
 
 
 ---
