@@ -23,6 +23,16 @@ moving toward truly **autonomous, self-evolving systems**.
 My long-term goal is to **bridge rigorous mathematical modeling** with **embodied intelligence**,
 enabling robots to **understand, adapt, and act independently** in dynamic environments.
 
+
+---
+
+### 📚 Publications & Peer Review
+
+* **Published in:** *Expert Systems with Applications(ESWA)*, *IEEE T-ASE*, *IEEE Sensors Journal*, *IROS 2025*
+
+* **Reviewer for:** *RAL*, *ICRA 2026*, *Measurement Science andTechnology*, *Engineering Research Express*
+
+
 ---
 
 ### 🧠 Tech Stack / Keywords
