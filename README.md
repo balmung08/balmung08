@@ -40,7 +40,7 @@ enabling robots to **understand, adapt, and act independently** in dynamic envir
 
 ---
 
-### 🌍 Know more about Me — [Homepage: **balmung08.github.io**](https://balmung08.github.io)
+### 🌍 Know More About Me — [Homepage: **balmung08.github.io**](https://balmung08.github.io)
 
 ---
 
